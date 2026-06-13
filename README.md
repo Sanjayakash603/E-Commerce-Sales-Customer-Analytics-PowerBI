@@ -17,19 +17,23 @@ This Power BI project provides insights into Sales, Products, Customers, and Exe
 
 ### Sales Dashboard
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](<img width="1915" height="972" alt="sales_dashboard" src="https://github.com/user-attachments/assets/2dc37e7e-0326-4719-9f47-70ff022c5207" />
+)
 
 ### Product Analysis
 
-![Product Analysis](product_analysis.png)
+![Product Analysis](<img width="1917" height="966" alt="product_analysis" src="https://github.com/user-attachments/assets/cdac028d-16fc-4270-92a1-610b18b04d72" />
+)
 
 ### Customer Analysis
 
-![Customer Analysis](customer_analysis.png)
+![Customer Analysis](<img width="1913" height="971" alt="customer_analysis" src="https://github.com/user-attachments/assets/4a60b9cf-52e7-432e-b3e2-89a185f6e853" />
+)
 
 ### Executive Dashboard
 
-![Executive Dashboard](executive_dashboard.png)
+![Executive Dashboard](<img width="1918" height="970" alt="executive_dashboard" src="https://github.com/user-attachments/assets/83143fe7-dd30-4a2a-a1c3-d9ce95abac19" />
+)
 
 ## Key KPIs
 
